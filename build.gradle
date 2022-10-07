@@ -8,7 +8,6 @@ buildscript {
     }
     dependencies {
         // Add this line
-        classpath 'com.iqiyi.android.qigsaw:gradle-plugin:1.4.1-hotfix01'
     }
 }
 
